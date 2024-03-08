@@ -30,6 +30,7 @@
   - [🙏 Acknowledgments ](#-acknowledgments-)
   - [❓ FAQ ](#-faq-)
   - [📝 License ](#-license-)
+  - [📝 Project journal ](#-project-journal-)
 
 # 📖 Rails and React Backend - Webpack Two App Template. <a name="about-project"></a>
 
@@ -190,5 +191,11 @@ I learned how to set up a full-stack project template using Ruby on Rails, React
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 📝 Project journal <a name="license"></a>
+
+This project is [project journal](./PROJECT_JOURNAL.md).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
