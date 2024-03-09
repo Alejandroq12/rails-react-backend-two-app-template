@@ -70,7 +70,7 @@ In order to run this project you need:
 
 ```sh
 cd my-folder
-git clone https://github.com/Alejandroq12/rails-react-frontend-two-app-template.git
+git clone https://github.com/Alejandroq12/rails-react-backend-two-app-template.git
 ```
 
 ### Install
